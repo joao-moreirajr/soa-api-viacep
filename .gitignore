@@ -1,0 +1,12 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de sistema (macOS e Windows)
+.DS_Store
+Thumbs.db
